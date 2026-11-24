@@ -31,7 +31,7 @@
 
 - Example:
 	<p align="left" width="100%">
-		<img width="788" height="192" alt="image" src="https://github.com/user-attachments/assets/857a379c-cae5-494c-b641-e24e50ae2565" />
+		<img width="60%" alt="image" src="https://github.com/user-attachments/assets/857a379c-cae5-494c-b641-e24e50ae2565" />
 	</p> 
   
 - Installation
