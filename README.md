@@ -7,7 +7,7 @@
 
 <br>
 
-[![passtab](https://img.shields.io/badge/passtab--green.svg)](https://github.com/dwmadden70/helpful-customer-bash-functions#passtab)
+[![passtab](https://img.shields.io/badge/passtab--green.svg)](https://github.com/dwmadden70/Helpful-Custom-Bash-Functions#passtab)
 
 - Flexible Arguments:
     - Run passtab with no arguments to list all regular human accounts (UID >= 1000, excluding nobody).
@@ -25,7 +25,7 @@
 
 <br>
 
-[![passtab](https://img.shields.io/badge/rgd--green.svg)](https://github.com/dwmadden70/helpful-customer-bash-functions#passtab)
+[![rgd](https://img.shields.io/badge/rgd--green.svg)](https://github.com/dwmadden70/Helpful-Custom-Bash-Functions#rgd)
 
 - Custom funtion to find occurences of word(s) untilizing ripgrep
 
