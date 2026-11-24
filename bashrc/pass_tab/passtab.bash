@@ -1,3 +1,8 @@
+
+# ------------------------------------------------------------------------
+# Custom function to see user password status in colorized tabular format
+# Usage: passtab [username]  (defaults to all regular users if omitted)
+# ------------------------------------------------------------------------
 passtab() {
   local target_user="$1"
 
